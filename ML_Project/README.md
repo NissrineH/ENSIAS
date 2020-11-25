@@ -1,4 +1,4 @@
-" Prédire les maladies cardiaques chez les patients "
+" Prédiction de la présence d'une maladie cardiaque chez le patient "
 
 --> Aperçu:
 
