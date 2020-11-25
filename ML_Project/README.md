@@ -1,4 +1,4 @@
-~~~~~ Prédire les maladies cardiaques chez les patients ~~~~~
+" Prédire les maladies cardiaques chez les patients "
 
 --> Aperçu:
 
